@@ -3,7 +3,17 @@ entries:
   myapp-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-30T11:09:38.973189+05:30"
+    created: "2022-09-30T12:15:28.574583+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 99ba39a8542161e7643cc9f78423bb40e37f8890d59eb1b403a5d20f05c0c44e
+    name: myapp-chart
+    type: application
+    urls:
+    - https://worldofprasanna.github.io/helm-chart-repository/myapp-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-30T12:15:28.572614+05:30"
     description: A Helm chart for Kubernetes
     digest: 2926f9e095efa42cb62407c5bd2bfce4d62c388e8d6befdd2f38a0f9f366384e
     name: myapp-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://worldofprasanna.github.io/helm-chart-repository/myapp-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-30T11:09:38.970613+05:30"
+generated: "2022-09-30T12:15:28.570187+05:30"
